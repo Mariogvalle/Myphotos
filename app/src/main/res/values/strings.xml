@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Myphotos</string>
+    <string name="descripcion">Descripción</string>
+    <string name="guardar">Guardar</string>
+    <string name="fotos">Ver fotos</string>
+    <string name="agregar">Agregar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="lista">Lista de fotografías</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="id">id</string>
+    <string name="compartir">Compartir</string>
+    <string name="verimagen">Ver imágen</string>
+</resources>
